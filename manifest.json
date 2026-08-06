@@ -1,0 +1,14 @@
+{
+  "name": "Fed & Watered",
+  "short_name": "Fed & Watered",
+  "description": "Save recipes, plan the week, everyone eats well.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F1E7",
+  "theme_color": "#33472B",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
