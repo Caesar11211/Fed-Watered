@@ -1,5 +1,5 @@
 // Fed & Watered service worker — caches the app so it opens offline
-const CACHE = "fed-watered-v4";
+const CACHE = "fed-watered-v3";
 const ASSETS = ["./", "./index.html", "./app.js", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
